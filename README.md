@@ -1,6 +1,6 @@
-# ideal.tools
+# ideal.tools v1.0.0 beta
 
-  ## 指令输入:
+  指令输入:
 
     项目构建 - build
     
