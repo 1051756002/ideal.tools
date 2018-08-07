@@ -1,0 +1,5 @@
+build_type = wxgame
+build_src = E:/svn/h5_framework/
+build_dest = F:/Users/home/Desktop/dest/
+build_md5 = 0
+build_title = h5_framework
